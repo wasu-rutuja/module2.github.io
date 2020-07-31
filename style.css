@@ -1,0 +1,49 @@
+body{
+font-family:helvetica;
+}
+
+p{
+padding:10px;
+}
+
+h1{
+padding:10px 10px 20px 10px;
+text-align:center;
+}
+
+*{box-sizing:border-box}
+
+.father{
+background-color:grey;
+border:2px solid;
+width:95%;
+height:190px;
+margin:20px;margin-color:white;
+
+}
+
+#child1{
+width:30%;
+background-color:#ff9999;
+border:1px solid;
+float:right;
+text-align:center;
+padding:5px;
+}
+#child2{
+width:30%;
+background-color:#ac3939;
+border:1px solid black;
+float:right;
+text-align:center;
+padding:5px;
+color:white;
+}
+#child3{
+width:30%;
+background-color:#ffff80;
+border:1px solid;
+float:right;
+text-align:center;
+padding:5px;
+}
